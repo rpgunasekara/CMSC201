@@ -1,0 +1,1 @@
+{"443": {"trunk-lines": [410, 656], "phone-numbers": [1321332], "phone-active": [true], "phone-connection": ["656-112-3412"]}, "410": {"trunk-lines": [443, 656], "phone-numbers": [], "phone-active": [], "phone-connection": []}, "656": {"trunk-lines": [410, 443], "phone-numbers": [1123412], "phone-active": [true], "phone-connection": ["443-132-1332"]}}
